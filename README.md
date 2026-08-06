@@ -1,8 +1,6 @@
 # DaHotel: Hotel Reservation Web Application
 
-
-
-## 📖 About
+### About
 DaHotel is a hotel reservation web application developed using Native PHP and MySQL as part of the final practical examination during vocational high school (SMK). The project was built to fulfill the requirements of creating a hotel reservation system with three user roles: Guest, Receptionist, and Administrator. The system focuses on online room reservations without implementing an online payment gateway, following the official UKK project specifications.
 
 ### Official Assignment
@@ -10,7 +8,7 @@ The complete project requirements can be found in the official competency assess
 
 📄 [UKK 2021/2022 – Hotel Reservation Web Application](https://docs.google.com/document/d/1gND0zmFNoUt--zhlOcrcdZDdSSVdjQtcyWWVDNCWYpQ/edit?usp=drive_link)
 
-## Features : 
+## ✨ Features : 
 👤 Guest
 * Browse available room types
 * View room facilities
