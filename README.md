@@ -40,12 +40,12 @@ The complete project requirements can be found in the official competency assess
 | Local Server | XAMPP                 |
 
 ## 🚀 Installation
-1. Clone this repository `https://github.com/wedawesnawa/App_Pemesanan_Hotel.git`
+1. Clone this repository `https://github.com/wedawesnawa/web-app-pemesanan-hotel.git`
 2. Move the project into the htdocs folder of XAMPP.
 3. Start: Apache & MySQL
 4. Open phpMyAdmin.
 5. Import the SQL file located in `database/`
-6. Open your browser`http://localhost/App_Pemesanan_Hotel/`
+6. Open your browser`http://localhost/foldermu/`
 
 ## 📌 Challenges
 Some challenges encountered during development included:
