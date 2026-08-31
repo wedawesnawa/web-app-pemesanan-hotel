@@ -9,8 +9,8 @@ The complete project requirements can be found in the official competency assess
 
 📄 [UKK 2021/2022 – Hotel Reservation Web Application](https://docs.google.com/document/d/1gND0zmFNoUt--zhlOcrcdZDdSSVdjQtcyWWVDNCWYpQ/edit?usp=drive_link)
 
-## ✨ Features : 
-👤 Guest
+##  Features : 
+Guest
 * Browse available room types
 * View room facilities
 * View hotel facilities
@@ -18,20 +18,20 @@ The complete project requirements can be found in the official competency assess
 * Print reservation receipt
 * Check reservation details
   
-👨‍💼 Receptionist
+Receptionist
 * View reservation list
 * Search reservations by guest name
 * Filter reservations by check-in date
 * Confirm guest reservations
   
-⚙️ Administrator
+Administrator
 * Manage room data (CRUD)
 * Manage room facilities
 * Manage hotel facilities
 * Manage reservation data
 * Dashboard overview
 
-## 🛠️ Tech Stack
+## Tech Stack
 | Category     | Technology            |
 | ------------ | --------------------- |
 | Backend      | PHP Native            |
@@ -40,15 +40,14 @@ The complete project requirements can be found in the official competency assess
 | Database     | MySQL                 |
 | Local Server | XAMPP                 |
 
-## 🚀 Installation
+## Installation
 1. Clone this repository `https://github.com/wedawesnawa/web-app-pemesanan-hotel.git`
-2. Move the project into the htdocs folder of XAMPP.
-3. Start: Apache & MySQL
+2. Start: Apache & MySQL
 4. Open phpMyAdmin.
 5. Import the SQL file located in `database/`
-6. Open your browser`http://localhost/foldermu/`
+6. In your terminal `php -S localhost:8000`  
 
-## 📌 Challenges
+## Challenges
 Some challenges encountered during development included:
 
 * Designing a role-based authentication system.
@@ -57,7 +56,7 @@ Some challenges encountered during development included:
 * Building a responsive interface using Bootstrap and AdminLTE.
 * Implementing CRUD operations while maintaining data consistency.
 
-## 💡 What I Learned
+## What I Learned
 This project helped me improve my understanding of:
 
 * Native PHP development
@@ -71,21 +70,21 @@ This project helped me improve my understanding of:
 * Git Version Control
 
 ## Areas for Contribution
-* 🎨 UI/UX improvements
-* 🐛 Bug fixes
-* 📱 Mobile optimization
-* 🌍 Internationalization
-* ♿ Accessibility improvements
-* ⚡ Performance optimization
-* 🔒 Security enhancements
-* 🧪 Unit & integration testing
-* 📄 Documentation improvements
-* ✨ Code refactoring
-* 🔍 Search and filtering enhancements
-* 📊 Dashboard analytics
-* 📧 Email notification integration
-* ☁️ Docker deployment support
-* 🚀 CI/CD workflow setup
+* UI/UX improvements
+* Bug fixes
+* Mobile optimization
+* Internationalization
+* Accessibility improvements
+* Performance optimization
+* Security enhancements
+* Unit & integration testing
+* Documentation improvements
+* Code refactoring
+* Search and filtering enhancements
+* Dashboard analytics
+* Email notification integration
+* Docker deployment support
+* CI/CD workflow setup
 
 
 ## Screenshots
